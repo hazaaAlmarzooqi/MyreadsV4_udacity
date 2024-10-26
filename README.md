@@ -9,7 +9,7 @@ Thanks.
 
 ### Features
 - View books in different shelves based on their reading status (Currently Reading, Want to Read, Read).
-- Search for books by title or author.
+- Search for books by title.
 - Move books between shelves.
 - The application saves your book data, so it persists even after a page refresh.
 - Notification has been add to improve the app.
