@@ -108,7 +108,7 @@ Here you can add some screenshots of the app for visual reference:
   
 ![Main Page Screenshot](./mainpage.PNG)
 ![Main fetch Screenshot](./mainFetch.PNG)
-![Main ALL Inspect Screenshot](./all_inspectloading.PNG)
+![Main ALL Inspect Screenshot](./main_all_inspect.PNG)
 
 
 - **Search Page**:
