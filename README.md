@@ -4,9 +4,7 @@
 A simple app that allows users to organize their books in categories.
 
 **IMPORTANT NOTE:**
-Please Turn On THIRD-PARTY Cookies on Google Chrome or keep The tracking preventation At Basic in Microsoft Edge, to compile the App without any ERRORS.
-make sure you have used **npm cache clean --force**, to clean Cache.
-**clear your Browser History.**
+Please Turn On THIRD-PARTY Cookies on Google Chrome or keep The tracking preventation At Basic in Microsoft Edge, to compile the App without any ERRORS, also dont forget to clear your Browser History.
 Thanks.
 
 ### Features
@@ -14,6 +12,8 @@ Thanks.
 - Search for books by title or author.
 - Move books between shelves.
 - The application saves your book data, so it persists even after a page refresh.
+- Notification has been add to improve the app.
+- The app will be automactically refreshed when the user return from search page.
 
 ---
 
@@ -25,9 +25,9 @@ To run this project locally, you need to have:
 - **npm** installed.
 
 ### Clone the repository:
-git clone https://github.com/hazaaAlmarzooqi/myreadslast.git
+git clone https://github.com/hazaaAlmarzooqi/MyreadsV4_udacity.git
 
-cd myreadslast
+cd MyreadsV4_udacity
 
 ### Install dependencies:
 To install all the required dependencies for the project, use
