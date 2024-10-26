@@ -53,10 +53,13 @@ Once the development server starts, open your browser and navigate to:
 │   └── index.html # DO NOT MODIFY
 └── src
     ├── App.css # Styles for your app.
-    ├── App.js # This is the root of your app.
+    ├── App.js # This is the root of the app.
     ├── BooksAPI.js # A JavaScript API for the provided Udacity backend.
-    ├── Mainpage.js # the Main page.
-    ├── SearchPage.js # the search page.     
+    ├── page # main and search page.
+        ├── SearchPage.js # the search page.
+        └── Mainpage.js # the Main page.
+    ├── components # file that have book.js.
+        └── Book.js # books.
     ├── icons # Helpful images for your app. Use at your discretion.
     │   ├── add.svg
     │   ├── arrow-back.svg
